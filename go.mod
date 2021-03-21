@@ -1,4 +1,4 @@
-module github.com/dghubble/go-twitter
+module github.com/chris-dot-exe/go-twitter
 
 go 1.12
 
@@ -7,3 +7,4 @@ require (
 	github.com/dghubble/sling v1.3.0
 	github.com/stretchr/testify v1.3.0
 )
+

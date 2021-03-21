@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/coreos/pkg/flagutil"
-	"github.com/dghubble/go-twitter/twitter"
+	"github.com/chris-dot-exe/go-twitter/twitter"
 	"github.com/dghubble/oauth1"
 )
 
